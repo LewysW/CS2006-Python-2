@@ -1,6 +1,0 @@
-execute -> shift + enter
-
-split the cell -> ctrl + shift + '-'
-
-execute the code and split the cell to make new cell -> alt + enter
-

@@ -4,3 +4,5 @@ matplotlib
 networkx
 wordcloud
 folium
+ipywidgets
+

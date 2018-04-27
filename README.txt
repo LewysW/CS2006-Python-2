@@ -23,4 +23,7 @@ The code/ directory contains our jupyter notebook file (no separate .py file wer
 * Folium - pip3 install folium
 
 To install of the prerequisite libraries/dependencies, navigate to the code/ directory and run the following command:
-Usage: pip3 install -r req.txt
+	Usage: pip3 install -r req.txt
+
+To run the jupyter notebook (.ipynb) file, navigate to the code/ folder and run the command:
+	Usage: jupyter notebook 
